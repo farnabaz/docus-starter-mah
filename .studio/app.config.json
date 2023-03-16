@@ -1,0 +1,17 @@
+{
+  "prose": {
+    "h1": {
+      "icon": "ic:baseline-11mp"
+    }
+  },
+  "docus": {
+    "header": {
+      "title": "eewssdssffddf",
+      "showLinkIcon": false
+    }
+  },
+  "nuxtIcon": {
+    "aliases": {},
+    "size": "1em"
+  }
+}
