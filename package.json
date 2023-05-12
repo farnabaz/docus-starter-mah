@@ -9,7 +9,11 @@
     "preview": "nuxi preview"
   },
   "devDependencies": {
-    "nuxt": "^3.1.0",
-    "@nuxt-themes/docus": "^1.6.0"
+    "@nuxt-themes/docus": "^1.6.0",
+    "nuxt": "^3.1.0"
+  },
+  "dependencies": {
+    "@nuxt/content": "^2.6.0",
+    "@nuxthq/studio": "^0.12.1"
   }
 }
